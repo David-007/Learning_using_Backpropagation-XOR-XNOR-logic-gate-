@@ -1,2 +1,2 @@
 # Learning_using_Backpropagation
-XOR & XNOR logic gate
+3 input XOR & XNOR logic gate 
